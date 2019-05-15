@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.202
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GLTest2020", "GLTest2020.vcxproj", "{590E2EBF-DDE2-4B8A-99CB-AD4EF21EC378}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestWindow", "GLTest2020.vcxproj", "{590E2EBF-DDE2-4B8A-99CB-AD4EF21EC378}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.vcxproj", "{E93DA27B-F9AA-4DD3-A354-224888FE5323}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,14 @@ Global
 		{590E2EBF-DDE2-4B8A-99CB-AD4EF21EC378}.Release|x64.Build.0 = Release|x64
 		{590E2EBF-DDE2-4B8A-99CB-AD4EF21EC378}.Release|x86.ActiveCfg = Release|Win32
 		{590E2EBF-DDE2-4B8A-99CB-AD4EF21EC378}.Release|x86.Build.0 = Release|Win32
+		{E93DA27B-F9AA-4DD3-A354-224888FE5323}.Debug|x64.ActiveCfg = Debug|x64
+		{E93DA27B-F9AA-4DD3-A354-224888FE5323}.Debug|x64.Build.0 = Debug|x64
+		{E93DA27B-F9AA-4DD3-A354-224888FE5323}.Debug|x86.ActiveCfg = Debug|Win32
+		{E93DA27B-F9AA-4DD3-A354-224888FE5323}.Debug|x86.Build.0 = Debug|Win32
+		{E93DA27B-F9AA-4DD3-A354-224888FE5323}.Release|x64.ActiveCfg = Release|x64
+		{E93DA27B-F9AA-4DD3-A354-224888FE5323}.Release|x64.Build.0 = Release|x64
+		{E93DA27B-F9AA-4DD3-A354-224888FE5323}.Release|x86.ActiveCfg = Release|Win32
+		{E93DA27B-F9AA-4DD3-A354-224888FE5323}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
