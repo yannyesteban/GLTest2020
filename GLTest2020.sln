@@ -7,8 +7,6 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestWindow", "GLTest2020.vc
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.vcxproj", "{E93DA27B-F9AA-4DD3-A354-224888FE5323}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Socket01", "..\Socket01\Socket01.vcxproj", "{DBA0092B-351B-4463-970E-3CABD68EF09D}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -33,14 +31,6 @@ Global
 		{E93DA27B-F9AA-4DD3-A354-224888FE5323}.Release|x64.Build.0 = Release|x64
 		{E93DA27B-F9AA-4DD3-A354-224888FE5323}.Release|x86.ActiveCfg = Release|Win32
 		{E93DA27B-F9AA-4DD3-A354-224888FE5323}.Release|x86.Build.0 = Release|Win32
-		{DBA0092B-351B-4463-970E-3CABD68EF09D}.Debug|x64.ActiveCfg = Debug|x64
-		{DBA0092B-351B-4463-970E-3CABD68EF09D}.Debug|x64.Build.0 = Debug|x64
-		{DBA0092B-351B-4463-970E-3CABD68EF09D}.Debug|x86.ActiveCfg = Debug|Win32
-		{DBA0092B-351B-4463-970E-3CABD68EF09D}.Debug|x86.Build.0 = Debug|Win32
-		{DBA0092B-351B-4463-970E-3CABD68EF09D}.Release|x64.ActiveCfg = Release|x64
-		{DBA0092B-351B-4463-970E-3CABD68EF09D}.Release|x64.Build.0 = Release|x64
-		{DBA0092B-351B-4463-970E-3CABD68EF09D}.Release|x86.ActiveCfg = Release|Win32
-		{DBA0092B-351B-4463-970E-3CABD68EF09D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
