@@ -97,7 +97,7 @@ int __cdecl main(void)
 		return 1;
 	}
 	printf("hola: %d\n", 16);
-	return 0;
+	//return 0;
 	// No longer need server socket
 	closesocket(ListenSocket);
 
